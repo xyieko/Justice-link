@@ -1,73 +1,15 @@
-# Welcome to your Lovable project
+     JUSTICE LINK
+Voice against police brutality
+Extrajudicial killings and police brutality continue to devastate communities where law enforcement often operates without accountability, leaving victims and their families silenced and unsupported. Current reporting mechanisms are fragmented, unsafe, and lack transparency, which hinders justice and systemic reform. JusticeLink addresses these issues by providing a secure, community-driven platform where users can report incidents anonymously or openly, with GPS tagging, timestamping, and multimedia uploads to ensure detailed, verifiable evidence. The app aggregates news reports, government statements, and international reactions, comparing laws and accountability efforts by country, while using data visualizations like graphs and heat maps to help identify perpetrators. Additionally, JusticeLink offers encrypted, anonymous communication and secure file sharing with human rights organizations to protect identities and privacy. Integrated fundraising tools enable direct support to victims' families, amplifying their voices and mobilizing resources for justice and reform
+Minimum Viable Product (Mvp):
+Incident reporting with GPS tagging, timestamping, and photo/video upload
+Aggregation of news reports, government statements, and international reactions
+Comparative database of laws, accountability efforts, and human rights records by country
+Data visualization tools, including graphs and heat maps, to track incidents and identify perpetrators
+Facial recognition or manual photo submission to assist in identifying alleged killers, with strict privacy controls
+Integrated fundraising platform for families of victims
+Encrypted, anonymous communication channels with verified human rights organizations
+Secure file sharing for videos, internal documents, and sensitive evidence
+Social sharing features to raise awareness and mobilize support
+Admin dashboard for content moderation, verification, and user safety management
 
-## Project info
-
-**URL**: https://lovable.dev/projects/0cdab832-8a4d-4441-ae75-1d3c26dcb8b1
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/0cdab832-8a4d-4441-ae75-1d3c26dcb8b1) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0cdab832-8a4d-4441-ae75-1d3c26dcb8b1) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
